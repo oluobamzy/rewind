@@ -1,0 +1,22 @@
+{
+  "name": "rewind",
+  "version": "1.0.0",
+  "description": "Agency website setup for Rewind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluobamzy/rewind.git"
+  },
+  "author": "oluwasegun idowu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oluobamzy/rewind/issues"
+  },
+  "homepage": "https://github.com/oluobamzy/rewind#readme",
+  "dependencies": {
+    "18": "^0.0.0"
+  }
+}
